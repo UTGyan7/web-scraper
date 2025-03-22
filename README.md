@@ -25,7 +25,7 @@ A simple and efficient web scraper built with Python that extracts basic informa
 
 1. Clone this repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/UTGyan7/web-scraper
 cd web-scraper
 ```
 
