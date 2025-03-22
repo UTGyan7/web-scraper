@@ -87,9 +87,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Your Name
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
+[Utkarsh Gyan](github.com/UTGyan)
 
 ## Acknowledgments
 
